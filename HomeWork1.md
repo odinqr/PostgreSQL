@@ -40,11 +40,3 @@ SELECT ...
 -- ...
 ```
 
-Загрузите решение в scm.x5.ru:
-
-- Создайте репозиторий "postgresql" в персональном пространстве в scm.x5.ru. При создании поставьте галку "Initialize repository with a README" (чтобы создалась ветка master с файлом README.md).
-
-- Создайте ветку "hw-1". В неё закомитьте файл hw1.sql с командами.
-
-- Создайте Merge Request из ветки "hw-1" в ветку master. Укажите в "Labels"для Merge Request-а метку "DB-1". Указывать Assignee НЕ нужно.
-
